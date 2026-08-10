@@ -2,7 +2,7 @@
 
 **Really Sound** is a powerful and lightweight Soundpad application built for gamers, streamers, and content creators. Easily play sound effects through your microphone and headphones using custom hotkeys.
 
-[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-FF7700?style=for-the-badge&logo=heart)](https://www.donationalerts.com/c/jhonsvaston)
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-FF7700?style=for-the-badge&logo=heart)](https://www.donationalerts.com/r/jhonsvaston)
 
 👉 [https://www.donationalerts.com/r/jhonsvaston](https://www.donationalerts.com/r/jhonsvaston)
 
@@ -46,7 +46,7 @@
 
 
 
-1\. Download and install \*\*\[VB-Audio Virtual Cable](https://vb-audio.com/Cable/)\*\* (Free) — required to route audio into your microphone.
+1\. Download and install \*\*\[VB-Audio Virtual Cable](https://vb-audio.com/Cable/) (Free) — required to route audio into your microphone.
 
 2\. Launch \*\*Really Sound\*\* and go to \*\*Settings (⚙️)\*\*.
 
@@ -68,7 +68,7 @@ If you like this project and want to support the developer, you can make a donat
 
 
 
-👉 \*\*\[Support JhonSvaston via DonationAlerts](https://www.donationalerts.com/c/jhonsvaston)\*\*
+👉 \*\*\[Support JhonSvaston via DonationAlerts](https://www.donationalerts.com/r/jhonsvaston)*
 
 
 

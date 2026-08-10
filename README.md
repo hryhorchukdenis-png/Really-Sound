@@ -1,12 +1,12 @@
-# Really-Sound
-
-Custom soundpad application with hotkeys, equalizer, bass boost, and audio routing
-
 # 🎵 Really Sound
 
+**Really Sound** is a powerful and lightweight Soundpad application built for gamers, streamers, and content creators. Easily play sound effects through your microphone and headphones using custom hotkeys.
 
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-FF7700?style=for-the-badge&logo=heart)](https://www.donationalerts.com/r/jhonsvaston)
 
-[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-FF7700?style=for-the-badge&logo=heart)](https://www.donationalerts.com/r/jhonsvaston)(https://www.donationalerts.com/r/jhonsvaston)
+👉 [https://www.donationalerts.com/r/jhonsvaston](https://www.donationalerts.com/r/jhonsvaston)
+
+---
 
 
 

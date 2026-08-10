@@ -6,7 +6,7 @@ Custom soundpad application with hotkeys, equalizer, bass boost, and audio routi
 
 
 
-\[!\[DonationAlerts](https://img.shields.io/badge/Donate-DonationAlerts-orange?style=for-the-badge\&logo=donationalerts)](https://www.donationalerts.com/r/jhonsvaston)
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-FF7700?style=for-the-badge&logo=heart)](https://www.donationalerts.com/r/jhonsvaston)(https://www.donationalerts.com/r/jhonsvaston)
 
 
 
